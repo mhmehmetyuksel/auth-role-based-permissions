@@ -1,3 +1,21 @@
+# Authentication and Role-based Permissions
+
+A sample project for how to authenticate users and create protected rouse based on roles.
+
+## Installation
+Clone to project to your device.
+```bash
+git clone https://github.com/mhmehmetyuksel/auth-role-based-permissions.git
+```
+Install required packages
+```bash
+npm install
+```
+Run the project on your device
+```bash
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
