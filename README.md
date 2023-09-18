@@ -16,6 +16,34 @@ Run the project on your device
 npm run dev
 ```
 
+## Sample Users to Login
+
+You can use that credentials to log in.
+
+```bash
+    {
+        username: "Mehmet",
+        password: 'Mm123456',
+        role: 'Admin'
+    },
+    {
+        username: "Ahmet",
+        password: 'Aa123456',
+        role: 'User'
+    },
+    {
+        username: "Enes",
+        password: 'Ee123456',
+        role: 'User'
+    },
+    {
+        username: "Hasan",
+        password: 'Hh123456',
+        role: 'User'
+    }
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
